@@ -1,0 +1,31 @@
+### YamlMime:ManagedReference
+items:
+- uid: Microsoft.SqlServer.Server1
+  commentId: N:Microsoft.SqlServer.Server1
+  id: Microsoft.SqlServer.Server1
+  children:
+  - Microsoft.SqlServer.Server1.SqlMetaData
+  langs:
+  - csharp
+  - vb
+  name: Microsoft.SqlServer.Server1
+  nameWithType: Microsoft.SqlServer.Server1
+  fullName: Microsoft.SqlServer.Server1
+  type: Namespace
+  summary: "[link_to_ref](for_ref.md)"
+  assemblies:
+  - System.Data.SqlClient
+references:
+- uid: Microsoft.SqlServer.Server1.SqlMetaData
+  commentId: T:Microsoft.SqlServer.Server1.SqlMetaData
+  parent: Microsoft.SqlServer.Server1
+  isExternal: false
+  name: SqlMetaData
+  nameWithType: SqlMetaData
+  fullName: Microsoft.SqlServer.Server1.SqlMetaData
+- uid: Microsoft.SqlServer.Server1
+  commentId: N:Microsoft.SqlServer.Server1
+  isExternal: false
+  name: Microsoft.SqlServer.Server1
+  nameWithType: Microsoft.SqlServer.Server1
+  fullName: Microsoft.SqlServer.Server1
